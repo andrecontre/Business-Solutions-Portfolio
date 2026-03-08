@@ -1,42 +1,43 @@
 # 💡 Consultoría de Inteligencia de Negocios & Estrategia de Datos
 
-¡Hola! Soy Consultora Independiente en Guatemala 🇬🇹. Me especializo en transformar datos desordenados en activos estratégicos, optimizando la operación de Pymes y empresas mediante el ecosistema de **Microsoft Power Platform** y soluciones de **Google Cloud**.
+¡Hola! Soy **Andrea Contreras**, Consultora Independiente en Guatemala 🇬🇹. Me especializo en transformar datos desordenados en activos estratégicos, optimizando la operación de Pymes y empresas. Mi enfoque es la **interoperabilidad**: conecto y optimizo tus datos sin importar si tu empresa vive en el ecosistema de **Microsoft 365** o **Google Workspace**.
 
 ---
 
-## 🛠️ Stack Tecnológico
-Para mis proyectos, utilizo un conjunto de herramientas líderes en la industria para asegurar escalabilidad y eficiencia:
+## 🛠️ Capacidades Técnicas (Soluciones por Función)
+Domino las herramientas líderes para adaptarme a la infraestructura que tu empresa ya posee:
 
-| **Data & BI** | **Automation & Apps** | **Google Ecosystem** |
+| **Análisis y Visualización** | **Automatización de Procesos** | **Bases de Datos y Apps** |
 | :--- | :--- | :--- |
-| 📊 **Power BI** (DAX, M) | ⚙️ **Power Automate** | 📗 **Google Sheets** (Avanzado) |
-| 🗄️ **SQL Server / MySQL** | 📱 **Power Apps** | ⚡ **Apps Script** |
-| 📈 **Excel / Numbers** | 💻 **Power Automate Desktop** | 🚀 **AppSheet / App Studio** |
+| 📊 **Power BI** (DAX / M) | ⚙️ **Power Automate** (Cloud) | 📱 **Power Apps** |
+| 📗 **Google Sheets** (Avanzado) | 💻 **Power Automate Desktop** | 🚀 **AppSheet / App Studio** |
+| 📈 **Excel** (Avanzado) | ⚡ **Google Apps Script** | 🗄️ **MySQL / SQL Server** |
 
 ---
 
-## 🚀 Soluciones de Alto Impacto
-* **Claridad Financiera:** Dashboards que monitorean rentabilidad y flujo de caja en tiempo real.
-* **Modernización de Procesos:** Digitalización de formularios y captura de datos con **Power Apps**.
-* **Automatización de Reportes:** Eliminación de tareas manuales repetitivas mediante **Power Automate** y **Apps Script**.
-* **Ecosistema Google:** Optimización de flujos de trabajo en **Google Sheets** mediante scripts personalizados.
-
----
-
-## 📚 Biblioteca de Estándares (Best Practices)
-Como profesional "pilas", sigo metodologías que garantizan que el código sea limpio y el modelo de datos sea robusto:
-
-* [📖 SQL: Guía de Estilo y Comandos Críticos](./Manuales/SQL-Best-Practices.md)
-* [📊 DAX: Reglas de Oro para Power BI](./Manuales/DAX-Rules.md) - *(En construcción)*
-* [⚙️ Automatización: Estándares de Flujos](./Manuales/Automation-Standards.md) - *(En construcción)*
+## 🚀 Soluciones que implemento
+* **Dashboards Unificados:** Consolidación de múltiples fuentes (SQL, Excel, Sheets) en tableros de control en tiempo real.
+* **Claridad Financiera:** Monitoreo de rentabilidad, flujo de caja y KPIs críticos para la toma de decisiones.
+* **Modernización de Captura:** Sustitución de formularios de papel por Apps personalizadas para ingreso de datos desde celular o tablet.
+* **Flujos de Trabajo Automatizados:** Conexión entre sistemas para generar alertas o eliminar tareas manuales repetitivas. 
+* **Limpieza de Datos (ETL):** Procesos de transformación para eliminar errores humanos, duplicados y garantizar datos veraces.
 
 ---
 
 ## 🏗️ Metodología de Trabajo
-1. **Diagnóstico:** Entender el problema de negocio, no solo la tabla de datos.
-2. **Modelado:** Estructurar la información para que sea rápida y veraz.
-3. **Entrega:** Visualizaciones que cuentan una historia y herramientas que ahorran tiempo.
+1. **Diagnóstico:** Entender el problema de negocio y los objetivos, no solo la tabla de datos.
+2. **Modelado y Solucion:** Estructurar la información para que sea rápida, escalable y veraz.
+3. **Entrega:** Visualizaciones que cuentan una historia y herramientas que ahorran tiempo real.
 
+---
+
+## 📚 Estándares de Ingeniería (Best Practices)
+Como profesional organizada, sigo metodologías que garantizan soluciones robustas:
+
+* [📖 SQL: Guía de Estilo y Comandos Críticos](./Manuales/SQL-Best-Practices.md)
+* [📊 DAX: Reglas de Oro para Power BI](./Manuales/DAX-Rules.md)
+* [⚙️ Automatización y Scripts: Estándares](./Manuales/Automation-Standards.md)
+* 
 ---
 
 ## 📫 ¿Hablamos?

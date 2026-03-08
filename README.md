@@ -34,9 +34,9 @@ Domino las herramientas líderes para adaptarme a la infraestructura que tu empr
 ## 📚 Estándares de Ingeniería (Best Practices)
 Como profesional organizada, sigo metodologías que garantizan soluciones robustas:
 
-* [📖 SQL: Guía de Estilo y Comandos Críticos](./Manuales/SQL-Best-Practices.md)
-* [📊 DAX: Reglas de Oro para Power BI](./Manuales/DAX-Rules.md)
-* [⚙️ Automatización y Scripts: Estándares](./Manuales/Automation-Standards.md)
+* [📖 SQL: Guía de Estilo y Comandos Críticos](./Best Practices/SQL-Best-Practices.md)
+* [📊 DAX: Reglas de Oro para Power BI](./Best Practices/DAX-Best-Practices.md)
+* [⚙️ Automatización y Scripts: Estándares](./Best Practices/Automation-Standards.md)
 * 
 ---
 

@@ -1,7 +1,7 @@
 [Español](#versión-en-español) | [English](#english-version)
 
 <a name="versión-en-español"></a>
-# Consultoría de Inteligencia de Negocios & Estrategia de Datos
+# Consultoría de Inteligencia de Negocios Y Estrategia de Datos
 
 ¡Hola! Soy **Andrea Contreras**, Consultora Independiente en Guatemala 🇬🇹. Me especializo en transformar datos desordenados en activos estratégicos, optimizando la operación de Pymes y empresas. Mi enfoque es la **interoperabilidad**: conecto y optimizo tus datos sin importar si tu empresa vive en el ecosistema de **Microsoft 365** o **Google Workspace**.
 
@@ -48,7 +48,7 @@ Si tu empresa tiene datos pero no tiene respuestas, hablemos de cómo convertirl
 <a name="english-version"></a>
 ## 🇺🇸 English Version
 
-### BI Consultancy & Data Strategy
+# BI Consultancy & Data Strategy
 Hello! It's me, **Andrea Contreras**, an independent consultant in Guatemala 🇬🇹. I specialize in transforming messy data into strategic assets. My focus is **interoperability**: I connect and optimize your data whether your company operates in **Microsoft 365** or **Google Workspace**.
 
 ## 🌎 Global Reach & Services

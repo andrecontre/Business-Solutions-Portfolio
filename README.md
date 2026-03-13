@@ -35,8 +35,8 @@ Domino las herramientas líderes para adaptarme a la infraestructura que tu empr
 ## 📚 Estándares y Metodología Técnica
 Como profesional organizada y compromiso a la calidad, sigo metodologías que garantizan soluciones robustas y mantengo una base de conocimientos técnica donde documento los estándares de ingeniería aplicados en mis proyectos:
 
-* [Best Practices](./Best Practices)
-* [Centro de Conocimiento](https://github.com/andrecontre/learning)
+* [📂 **Mejores Practicas (Best Practices)**](./Best-Practices) - Estándares internos de desarrollo.
+* [📖 **Centro de Conocimiento**](https://github.com/andrecontre/learning) — Mi repositorio central de lógica avanzada y notas maestras.
 
 
 ## 📫 ¿Hablamos?

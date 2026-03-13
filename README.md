@@ -67,10 +67,20 @@ Hello! It's me, **Andrea Contreras**, an independent consultant in Guatemala �
 * **Automated Workflows:** Eliminating repetitive tasks through system integration.
 * **Data Cleaning (ETL):** Ensuring accurate, error-free data.
 
-### 📚 Technical Standards
-I maintain a dedicated repository for my engineering standards and advanced logic:
-* [📖 **Knowledge Hub & Master Notes**](https://github.com/andrecontre/learning)
+### 🏗️ Workflow Methodology
+1. **Discovery:** Understanding the business problem and objectives, not just the data table.
+2. **Modeling & Solution:** Structuring information to be fast, scalable, and accurate.
+3. **Delivery:** Visualizations that tell a story and tools that save real time.
 
-### 📫 Contact
-* 💼 **LinkedIn:** [andreacontrerasflores](https://www.linkedin.com/in/andreacontrerasflores/)
-* 📍 **Location:** Guatemala 🇬🇹 (Remote and On-site services).
+### 📚 Engineering Standards
+As an organized professional committed to quality, I follow methodologies that ensure robust solutions. I maintain a technical knowledge base documenting the engineering standards applied in my projects:
+
+* [📂 **Best Practices**](./Best-Practices/) — Internal development standards.
+* [📖 **Knowledge Hub**](https://github.com/andrecontre/learning) — Central repository for advanced logic and master notes.
+
+### 📫 Let's Talk
+If your company has data but no answers, let's discuss how to turn it into growth.
+* **LinkedIn:** [andreacontrerasflores](https://www.linkedin.com/in/andreacontrerasflores/)
+* **Location:** Guatemala 🇬🇹 (On-site and Remote services).
+
+*"The value is not in the data, but in what the data allows you to decide."*

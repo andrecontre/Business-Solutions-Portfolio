@@ -12,9 +12,9 @@ Domino las herramientas líderes para adaptarme a la infraestructura que tu empr
 
 | **Análisis y Visualización** | **Automatización de Procesos** | **Bases de Datos y Apps** |
 | :--- | :--- | :--- |
-| 📊 **Power BI** (DAX / M) | ⚙️ **Power Automate** (Cloud) | 📱 **Power Apps** |
-| 📗 **Google Sheets** (Avanzado) | 💻 **Power Automate Desktop** | 🚀 **AppSheet / App Studio** |
-| 📈 **Excel** (Avanzado) | ⚡ **Google Apps Script** | 🗄️ **MySQL / SQL Server** |
+| 📊 **Power BI** (DAX) | ⚙️ **Power Automate**| 📱 **Power Apps** |
+| 📗 **Locker Studio** | ⚡ **Power Query (M)** | 🚀 **AppSheet / App Studio** |
+| 📈 **Google Sheets / Excel** (Avanzado) |  💻 **Google Apps Script** | 🗄️ **SQL** |
 
 ## 🚀 Soluciones que implemento 
 * **Dashboards Unificados:** Consolidación de múltiples fuentes (SQL, Excel, Sheets) en tableros de control en tiempo real.
@@ -49,11 +49,11 @@ Si tu empresa tiene datos pero no tiene respuestas, hablemos de cómo convertirl
 Hello! It's me, **Andrea Contreras**, an independent consultant in Guatemala 🇬🇹. I specialize in transforming messy data into strategic assets. My focus is **interoperability**: I connect and optimize your data whether your company operates in **Microsoft 365** or **Google Workspace**.
 
 ### 🛠️ Technical Capabilities
-| Analysis & Visualization | Automation | Apps & Databases |
+| Analysis & Visualization | Automation y ETL | Apps & Databases |
 | :--- | :--- | :--- |
-| 📊 **Power BI** (DAX / M) | ⚙️ **Power Automate** | 📱 **Power Apps** |
-| 📗 **Google Sheets** (Advanced) | 💻 **Desktop Automation** | 🚀 **AppSheet / App Studio** |
-| 📈 **Excel** (Advanced) | ⚡ **Apps Script** | 🗄️ **SQL (MySQL / Server)** |
+| 📊 **Power BI** (DAX) | ⚙️ **Power Automate** | 📱 **Power Apps** |
+| 📗 **Locker Studio**| ⚡ **Power Query (M)** | 🚀 **AppSheet / App Studio** |
+| 📈 **Google Sheets / Excel** (Advanced) | 💻 **Google Apps Script** | 🗄️ **SQL** |
 
 ### 🚀 Solutions & Services
 * **Unified Dashboards:** Consolidation of multiple sources (SQL, Excel, Sheets) into real-time control dashboards.

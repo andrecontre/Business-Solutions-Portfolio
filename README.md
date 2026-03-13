@@ -1,8 +1,9 @@
+[Español](#versión-en-español) | [English](#english-version)
 # 💡 Consultoría de Inteligencia de Negocios & Estrategia de Datos
 
 ¡Hola! Soy **Andrea Contreras**, Consultora Independiente en Guatemala 🇬🇹. Me especializo en transformar datos desordenados en activos estratégicos, optimizando la operación de Pymes y empresas. Mi enfoque es la **interoperabilidad**: conecto y optimizo tus datos sin importar si tu empresa vive en el ecosistema de **Microsoft 365** o **Google Workspace**.
 
----
+
 
 ## 🛠️ Capacidades Técnicas (Soluciones por Función)
 Domino las herramientas líderes para adaptarme a la infraestructura que tu empresa ya posee:
@@ -13,7 +14,7 @@ Domino las herramientas líderes para adaptarme a la infraestructura que tu empr
 | 📗 **Google Sheets** (Avanzado) | 💻 **Power Automate Desktop** | 🚀 **AppSheet / App Studio** |
 | 📈 **Excel** (Avanzado) | ⚡ **Google Apps Script** | 🗄️ **MySQL / SQL Server** |
 
----
+
 
 ## 🚀 Soluciones que implemento
 * **Dashboards Unificados:** Consolidación de múltiples fuentes (SQL, Excel, Sheets) en tableros de control en tiempo real.
@@ -22,27 +23,52 @@ Domino las herramientas líderes para adaptarme a la infraestructura que tu empr
 * **Flujos de Trabajo Automatizados:** Conexión entre sistemas para generar alertas o eliminar tareas manuales repetitivas. 
 * **Limpieza de Datos (ETL):** Procesos de transformación para eliminar errores humanos, duplicados y garantizar datos veraces.
 
----
+
 
 ## 🏗️ Metodología de Trabajo
 1. **Diagnóstico:** Entender el problema de negocio y los objetivos, no solo la tabla de datos.
 2. **Modelado y Solucion:** Estructurar la información para que sea rápida, escalable y veraz.
 3. **Entrega:** Visualizaciones que cuentan una historia y herramientas que ahorran tiempo real.
 
----
+## 📚 Estándares y Metodología Técnica
+Como profesional organizada y compromiso a la calidad, sigo metodologías que garantizan soluciones robustas y mantengo una base de conocimientos técnica donde documento los estándares de ingeniería aplicados en mis proyectos:
 
-## 📚 Estándares de Ingeniería (Best Practices)
-Como profesional organizada, sigo metodologías que garantizan soluciones robustas:
+* [Best Practices](./Best Practices)
+* [Centro de Conocimiento](https://github.com/andrecontre/learning)
 
-* [📖 SQL: Guía de Estilo y Comandos Críticos](./Best Practices/SQL-Best-Practices.md)
-* [📊 DAX: Reglas de Oro para Power BI](./Best Practices/DAX-Best-Practices.md)
-* [⚙️ Automatización y Scripts: Estándares](./Best Practices/Automation-Standards.md)
-* 
----
 
 ## 📫 ¿Hablamos?
 Si tu empresa tiene datos pero no tiene respuestas, hablemos de cómo convertirlos en crecimiento.
-* **LinkedIn:** [https://www.linkedin.com/in/andreacontrerasflores/]
+* **LinkedIn:** [andreacontrerasflores](https://www.linkedin.com/in/andreacontrerasflores/)
 * **Ubicación:** Guatemala 🇬🇹 (Servicios Presenciales y Remotos).
 
 *"El valor no está en el dato, sino en lo que el dato te permite decidir."*
+
+---
+<a name="english-version"></a>
+## 🇺🇸 English Version
+
+### BI Consultancy & Data Strategy
+Hello! It's me, **Andrea Contreras**, an independent consultant in Guatemala 🇬🇹. I specialize in transforming messy data into strategic assets. My focus is **interoperability**: I connect and optimize your data whether your company operates in **Microsoft 365** or **Google Workspace**.
+
+### 🛠️ Technical Capabilities
+| Analysis & Visualization | Automation | Apps & Databases |
+| :--- | :--- | :--- |
+| 📊 **Power BI** (DAX / M) | ⚙️ **Power Automate** | 📱 **Power Apps** |
+| 📗 **Google Sheets** (Advanced) | 💻 **Desktop Automation** | 🚀 **AppSheet / App Studio** |
+| 📈 **Excel** (Advanced) | ⚡ **Apps Script** | 🗄️ **SQL (MySQL / Server)** |
+
+### 🚀 Solutions & Services
+* **Unified Dashboards:** Real-time consolidation of multiple data sources.
+* **Financial Clarity:** Monitoring profitability, cash flow, and critical KPIs.
+* **Capture Modernization:** Replacing manual processes with custom mobile apps.
+* **Automated Workflows:** Eliminating repetitive tasks through system integration.
+* **Data Cleaning (ETL):** Ensuring accurate, error-free data.
+
+### 📚 Technical Standards
+I maintain a dedicated repository for my engineering standards and advanced logic:
+* [📖 **Knowledge Hub & Master Notes**](https://github.com/andrecontre/learning)
+
+### 📫 Contact
+* 💼 **LinkedIn:** [andreacontrerasflores](https://www.linkedin.com/in/andreacontrerasflores/)
+* 📍 **Location:** Guatemala 🇬🇹 (Remote and On-site services).

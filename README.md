@@ -1,4 +1,6 @@
 [Español](#versión-en-español) | [English](#english-version)
+
+<a name="versión-en-español"></a>
 # 💡 Consultoría de Inteligencia de Negocios & Estrategia de Datos
 
 ¡Hola! Soy **Andrea Contreras**, Consultora Independiente en Guatemala 🇬🇹. Me especializo en transformar datos desordenados en activos estratégicos, optimizando la operación de Pymes y empresas. Mi enfoque es la **interoperabilidad**: conecto y optimizo tus datos sin importar si tu empresa vive en el ecosistema de **Microsoft 365** o **Google Workspace**.

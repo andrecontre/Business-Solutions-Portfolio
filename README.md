@@ -5,7 +5,10 @@
 
 ¡Hola! Soy **Andrea Contreras**, Consultora Independiente en Guatemala 🇬🇹. Me especializo en transformar datos desordenados en activos estratégicos, optimizando la operación de Pymes y empresas. Mi enfoque es la **interoperabilidad**: conecto y optimizo tus datos sin importar si tu empresa vive en el ecosistema de **Microsoft 365** o **Google Workspace**.
 
-
+## 🌎 Alcance Global y Servicios
+* **Servicios Trilingües:** Consultoría y soluciones técnicas en **Español (Nativo)**, **Inglés (C1)** y **Alemán (C1)**.
+* **Estándares Europeos:** Experiencia académica y profesional en **Austria 🇦🇹**, garantizando precisión y flujos de trabajo de alta calidad.
+* **Colaboración Remota:** Disponible para proyectos estratégicos en **Latinoamérica** y **Europa**. 
 
 ## 🛠️ Capacidades Técnicas (Soluciones por Función) 
 Domino las herramientas líderes para adaptarme a la infraestructura que tu empresa ya posee:
@@ -34,10 +37,10 @@ Como profesional organizada y compromiso a la calidad, sigo metodologías que ga
 * [📂 **Mejores Practicas (Best Practices)**](./Best-Practices) - Estándares internos de desarrollo.
 * [📖 **Centro de Conocimiento**](https://github.com/andrecontre/learning) — Mi repositorio central de lógica avanzada y notas maestras.
 
-## 📫 ¿Hablamos? 
+## 📫 Contáctame
 Si tu empresa tiene datos pero no tiene respuestas, hablemos de cómo convertirlos en crecimiento.
 * **LinkedIn:** [andreacontrerasflores](https://www.linkedin.com/in/andreacontrerasflores/)
-* **Ubicación:** Guatemala 🇬🇹 (Servicios Presenciales y Remotos).
+* **Ubicación:** Guatemala 🇬🇹 (Servicios Presenciales y Remotos) y proyectos Remotos en LATAM & Europa.
 
 *"El valor no está en el dato, sino en lo que el dato te permite decidir."*
 
@@ -47,6 +50,11 @@ Si tu empresa tiene datos pero no tiene respuestas, hablemos de cómo convertirl
 
 ### BI Consultancy & Data Strategy
 Hello! It's me, **Andrea Contreras**, an independent consultant in Guatemala 🇬🇹. I specialize in transforming messy data into strategic assets. My focus is **interoperability**: I connect and optimize your data whether your company operates in **Microsoft 365** or **Google Workspace**.
+
+## 🌎 Global Reach & Services
+* **Fully Trilingual Services:** Consulting and technical solutions in **Spanish (Native)**, **English (C1)**, and **German (C1)**.
+* **European Professional Standards:** Experience studying and working in **Austria 🇦🇹**, ensuring high-quality workflows and precision.
+* **Global Remote Collaboration:** Available for strategic projects across **Latin America** and **Europe**.
 
 ### 🛠️ Technical Capabilities
 | Analysis & Visualization | Automation y ETL | Apps & Databases |
@@ -73,9 +81,13 @@ As an organized professional committed to quality, I follow methodologies that e
 * [📂 **Best Practices**](./Best-Practices/) — Internal development standards.
 * [📖 **Knowledge Hub**](https://github.com/andrecontre/learning) — Central repository for advanced logic and master notes.
 
+
+
 ### 📫 Let's Talk
 If your company has data but no answers, let's discuss how to turn it into growth.
 * **LinkedIn:** [andreacontrerasflores](https://www.linkedin.com/in/andreacontrerasflores/)
-* **Location:** Guatemala 🇬🇹 (On-site and Remote services).
+* **Location:** Guatemala 🇬🇹 (On-site and Remote services) and Remote projects for LATAM & Europe.
+
+
 
 *"The value is not in the data, but in what the data allows you to decide."*

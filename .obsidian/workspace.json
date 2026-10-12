@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bf4a44b9908b104a",
+        "id": "71e678ba534b35c6",
         "type": "tabs",
         "children": [
           {
-            "id": "6422251b6de70a45",
+            "id": "9e060a75fd81774b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -203,8 +203,9 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "6422251b6de70a45",
+  "active": "9e060a75fd81774b",
   "lastOpenFiles": [
+    "README.md",
     "Best Practices/Automation-Standards.md",
     "Best Practices/M-Best-Practices.md",
     "Best Practices/SQL-Best-Practices.md",

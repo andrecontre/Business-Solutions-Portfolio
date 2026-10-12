@@ -71,7 +71,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
@@ -203,7 +206,7 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "868c0be6d4548b54",
+  "active": "6d16dc611a0a13d8",
   "lastOpenFiles": [
     "PowerBI-Sales-Dashboard/data_model.md",
     "PowerBI-Sales-Dashboard/data/data_model.md",

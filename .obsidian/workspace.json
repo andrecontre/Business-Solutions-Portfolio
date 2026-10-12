@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Best Practices/DAX-Best Practices.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DAX-Best Practices"
+              "title": "README"
             }
           }
         ]
@@ -205,8 +205,10 @@
   },
   "active": "6422251b6de70a45",
   "lastOpenFiles": [
-    "Sin título.base",
+    "Best Practices/Automation-Standards.md",
+    "Best Practices/M-Best-Practices.md",
+    "Best Practices/SQL-Best-Practices.md",
     "Best Practices/DAX-Best Practices.md",
-    "Best Practices/Automation-Standards.md"
+    "Sin título.base"
   ]
 }

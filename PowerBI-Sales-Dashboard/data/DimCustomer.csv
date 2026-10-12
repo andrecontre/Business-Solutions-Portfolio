@@ -1,0 +1,326 @@
+CustomerID,CustomerName,SalesRepID,CustomerType,Classification,PotentialClass,CVMStrategy
+10001,Stonebridge Automation Group,6,Established,C,C,Maintain
+10002,Ironwood Metalworks Inc.,3,Established,VIP,VIP,Defend
+10003,Yarrow Mechanical Co.,6,Established,C,B,Build
+10004,Dunmore Automation LLC,5,NC 2nd Year,F,F,Observe
+10005,Meridian Power Corp.,1,NC 2nd Year,F,F,Observe
+10006,Ridgeway Controls Corp.,8,Established,D,C,Maintain
+10007,Westbrook Metalworks Corp.,5,NC 1st Year,F,F,Observe
+10008,Zephyr Mechanical Inc.,6,Established,D,D,Maintain
+10009,Ironwood Mechanical Group,1,Established,B,C,Maintain
+10010,Bayview Industrial Co.,3,Established,E,D,Maintain
+10011,Pinnacle Energy Corp.,2,Established,B,B,Defend
+10012,Brightwell Engineering Inc.,7,Established,D,E,Observe
+10013,Ashford Metalworks Holdings,4,Established,C,B,Build
+10014,Dunmore Automation Group,6,Established,F,F,Observe
+10015,Ashford Robotics Inc.,3,Established,A,B,Defend
+10016,Everest Machinery Inc.,2,Established,A,A,Defend
+10017,Oakridge Controls Inc.,4,Established,B,C,Maintain
+10018,Vantage Industrial Co.,1,Established,F,E,Observe
+10019,Yarrow Machinery Group,6,Established,B,B,Defend
+10020,Cobalt Automation Co.,4,Established,B,A,Defend
+10021,Keystone Robotics Holdings,5,NC 3rd Year,N/A,E,Observe
+10022,Ashford Robotics Holdings,2,Established,D,C,Maintain
+10023,Alder Systems LLC,8,Established,C,D,Maintain
+10024,Oakridge Technologies Holdings,7,Established,D,D,Maintain
+10025,Vantage Packaging Co.,6,Established,D,B,Build
+10026,Ashford Engineering LLC,1,Established,C,D,Maintain
+10027,Alder Controls Ltd.,3,Established,VIP,VIP,Defend
+10028,Bayview Data Services Corp.,1,Established,A,VIP,Defend
+10029,Elmhurst Machinery Ltd.,1,Established,N/A,F,Observe
+10030,Northgate Metalworks Inc.,5,Established,E,E,Observe
+10031,Zephyr Logistics Ltd.,5,NC 1st Year,N/A,B,Gain
+10032,Keystone Metalworks Ltd.,8,Established,E,D,Maintain
+10033,Quarry Mechanical Inc.,2,Established,C,E,Observe
+10034,Linden Automation Holdings,2,Established,A,A,Defend
+10035,Meridian Machinery Inc.,3,Established,E,F,Observe
+10036,Ashford Systems Corp.,1,NC 2nd Year,D,F,Observe
+10037,Crestline Automation Ltd.,1,NC 1st Year,N/A,D,Maintain
+10038,Everest Logistics Ltd.,3,Established,E,E,Observe
+10039,Linden Controls Ltd.,2,Established,A,B,Defend
+10040,Pinnacle Energy Holdings,5,Established,D,D,Maintain
+10041,Ridgeway Robotics Co.,3,Established,C,B,Build
+10042,Meridian Data Services LLC,6,NC 3rd Year,N/A,D,Maintain
+10043,Oakridge Mechanical Group,5,Established,VIP,VIP,Defend
+10044,Quarry Electric Corp.,2,Established,C,C,Maintain
+10045,Harlow Robotics Group,6,Established,D,D,Maintain
+10046,Granite Systems Inc.,6,Established,B,A,Defend
+10047,Meridian Robotics LLC,3,Established,F,F,Observe
+10048,Harlow Metalworks Group,2,Established,B,B,Defend
+10049,Driftwood Technologies Holdings,5,Established,E,F,Observe
+10050,Meridian Data Services Holdings,1,Established,E,F,Observe
+10051,Harlow Systems Holdings,1,Established,E,D,Maintain
+10052,Alder Robotics Corp.,1,NC 1st Year,F,F,Observe
+10053,Dunmore Data Services Holdings,6,NC 1st Year,F,F,Observe
+10054,Northgate Robotics Holdings,5,Established,D,C,Maintain
+10055,Juniper Automation Holdings,5,Established,C,C,Maintain
+10056,Ironwood Logistics Co.,6,Established,D,D,Maintain
+10057,Ironwood Engineering Ltd.,3,NC 1st Year,E,E,Observe
+10058,Zephyr Packaging Group,4,Established,D,C,Maintain
+10059,Ridgeway Automation LLC,1,Established,VIP,VIP,Defend
+10060,Elmhurst Industrial Group,1,Established,F,F,Observe
+10061,Crestline Mechanical Ltd.,5,Established,B,D,Maintain
+10062,Harlow Logistics Co.,3,Established,A,B,Defend
+10063,Linden Engineering Ltd.,4,Established,F,F,Observe
+10064,Tidewater Systems Holdings,5,Established,VIP,A,Defend
+10065,Meridian Metalworks Inc.,4,Established,B,A,Defend
+10066,Quarry Mechanical LLC,4,Established,C,C,Maintain
+10067,Juniper Technologies Holdings,4,Established,D,C,Maintain
+10068,Meridian Packaging Group,2,Established,D,E,Observe
+10069,Meridian Data Services Co.,1,Established,D,E,Observe
+10070,Dunmore Automation Co.,3,Established,C,C,Maintain
+10071,Dunmore Electric Ltd.,1,Established,A,A,Defend
+10072,Meridian Power LLC,3,NC 3rd Year,D,E,Observe
+10073,Juniper Systems Co.,6,Established,F,F,Observe
+10074,Granite Industrial Group,2,NC 3rd Year,C,D,Maintain
+10075,Brightwell Power Holdings,1,Established,B,B,Defend
+10076,Juniper Industrial Ltd.,2,Established,C,B,Build
+10077,Tidewater Mechanical Ltd.,2,Established,B,B,Defend
+10078,Harlow Electric Group,5,Established,E,F,Observe
+10079,Vantage Systems Inc.,4,Established,D,D,Maintain
+10080,Bayview Automation LLC,6,Established,E,D,Maintain
+10081,Driftwood Controls Holdings,5,Established,E,F,Observe
+10082,Meridian Controls Corp.,3,Established,D,C,Maintain
+10083,Driftwood Technologies Inc.,6,Established,D,E,Observe
+10084,Northgate Energy LLC,1,Established,E,D,Maintain
+10085,Brightwell Robotics LLC,1,Established,N/A,B,Gain
+10086,Tidewater Controls Co.,1,Established,F,F,Observe
+10087,Dunmore Data Services Inc.,5,Established,B,C,Maintain
+10088,Pinnacle Electric Holdings,3,NC 3rd Year,E,E,Observe
+10089,Yarrow Power Ltd.,1,Established,C,D,Maintain
+10090,Bayview Metalworks Ltd.,3,Established,F,F,Observe
+10091,Vantage Metalworks Corp.,1,Established,B,B,Defend
+10092,Granite Energy Group,5,Established,E,E,Observe
+10093,Zephyr Robotics Ltd.,3,Established,D,D,Maintain
+10094,Pinnacle Systems LLC,3,Established,VIP,A,Defend
+10095,Brightwell Data Services Group,2,Established,A,A,Defend
+10096,Brightwell Mechanical LLC,4,Established,D,F,Observe
+10097,Westbrook Robotics LLC,2,Established,E,F,Observe
+10098,Fairmont Electric Inc.,1,Established,E,E,Observe
+10099,Linden Controls Group,1,Established,D,D,Maintain
+10100,Dunmore Data Services Group,8,Established,D,C,Maintain
+10101,Tidewater Systems LLC,7,Established,D,D,Maintain
+10102,Yarrow Controls Group,5,Established,A,A,Defend
+10103,Ridgeway Electric Corp.,2,Established,C,D,Maintain
+10104,Bayview Packaging LLC,8,Established,VIP,VIP,Defend
+10105,Northgate Machinery Co.,6,Established,D,C,Maintain
+10106,Pinnacle Technologies Holdings,5,Established,A,A,Defend
+10107,Ridgeway Industrial Corp.,3,Established,C,E,Observe
+10108,Harlow Systems Ltd.,2,Established,B,B,Defend
+10109,Dunmore Energy Ltd.,1,Established,E,E,Observe
+10110,Stonebridge Technologies Corp.,7,NC 1st Year,N/A,E,Observe
+10111,Stonebridge Electric Ltd.,3,Established,C,D,Maintain
+10112,Crestline Robotics Co.,1,Established,A,B,Defend
+10113,Zephyr Systems Ltd.,2,Established,D,E,Observe
+10114,Alder Systems Holdings,4,Established,E,F,Observe
+10115,Quarry Machinery Corp.,1,NC 3rd Year,F,E,Observe
+10116,Keystone Power LLC,6,NC 1st Year,N/A,F,Observe
+10117,Crestline Electric Co.,5,NC 3rd Year,N/A,F,Observe
+10118,Ridgeway Engineering Holdings,5,Established,D,D,Maintain
+10119,Stonebridge Power Ltd.,3,Established,B,B,Defend
+10120,Granite Technologies Co.,4,Established,C,C,Maintain
+10121,Northgate Energy Co.,4,Established,F,E,Observe
+10122,Union Electric Inc.,4,Established,D,B,Build
+10123,Union Technologies Holdings,1,Established,D,C,Maintain
+10124,Harlow Data Services LLC,3,Established,VIP,VIP,Defend
+10125,Vantage Mechanical Holdings,1,Established,E,E,Observe
+10126,Bayview Energy Co.,3,Established,E,E,Observe
+10127,Oakridge Power Holdings,2,Established,VIP,B,Defend
+10128,Keystone Data Services Corp.,1,Established,C,C,Maintain
+10129,Northgate Technologies Group,1,Established,B,D,Maintain
+10130,Fairmont Systems Co.,4,Established,D,D,Maintain
+10131,Elmhurst Electric LLC,1,Established,C,D,Maintain
+10132,Harlow Industrial Group,7,Established,B,D,Maintain
+10133,Juniper Engineering Corp.,4,Established,E,E,Observe
+10134,Ashford Packaging LLC,2,Established,C,B,Build
+10135,Northgate Metalworks Corp.,4,Established,E,E,Observe
+10136,Vantage Engineering Ltd.,1,Established,D,D,Maintain
+10137,Westbrook Systems LLC,8,Established,C,D,Maintain
+10138,Northgate Mechanical Group,3,Established,E,C,Maintain
+10139,Ashford Data Services Group,6,Established,D,F,Observe
+10140,Quarry Mechanical Group,1,Established,E,F,Observe
+10141,Ironwood Electric Co.,3,Established,D,E,Observe
+10142,Brightwell Automation Co.,3,Established,D,E,Observe
+10143,Ashford Engineering Inc.,7,Established,F,F,Observe
+10144,Yarrow Engineering LLC,4,Established,C,B,Build
+10145,Harlow Packaging Group,3,NC 3rd Year,F,F,Observe
+10146,Stonebridge Controls Inc.,2,Established,C,D,Maintain
+10147,Elmhurst Robotics Group,2,Established,F,F,Observe
+10148,Brightwell Engineering Co.,4,NC 3rd Year,E,F,Observe
+10149,Linden Robotics Inc.,3,Established,E,D,Maintain
+10150,Yarrow Power Co.,1,Established,A,A,Defend
+10151,Oakridge Engineering LLC,6,NC 2nd Year,E,E,Observe
+10152,Crestline Logistics Holdings,7,Established,D,E,Observe
+10153,Everest Industrial Ltd.,1,Established,B,VIP,Defend
+10154,Pinnacle Robotics Co.,4,Established,N/A,B,Gain
+10155,Stonebridge Controls Co.,1,Established,C,C,Maintain
+10156,Ridgeway Logistics Ltd.,5,Established,VIP,A,Defend
+10157,Zephyr Automation LLC,2,Established,C,B,Build
+10158,Ashford Robotics Corp.,4,Established,D,D,Maintain
+10159,Keystone Electric Ltd.,5,Established,C,C,Maintain
+10160,Crestline Power Group,5,Established,B,C,Maintain
+10161,Oakridge Energy Ltd.,1,Established,F,F,Observe
+10162,Zephyr Metalworks Co.,7,Established,F,E,Observe
+10163,Ridgeway Controls LLC,2,NC 3rd Year,D,F,Observe
+10164,Granite Metalworks LLC,1,Established,D,E,Observe
+10165,Yarrow Automation Group,4,Established,A,VIP,Defend
+10166,Granite Power Holdings,2,Established,E,D,Maintain
+10167,Ashford Power Corp.,6,Established,F,F,Observe
+10168,Brightwell Electric Inc.,6,Established,F,F,Observe
+10169,Driftwood Electric Corp.,2,Established,N/A,A,Gain
+10170,Ashford Electric Ltd.,8,Established,D,D,Maintain
+10171,Quarry Controls Ltd.,2,NC 3rd Year,E,F,Observe
+10172,Crestline Robotics Holdings,4,NC 2nd Year,F,E,Observe
+10173,Stonebridge Logistics LLC,2,Established,B,B,Defend
+10174,Ridgeway Energy Co.,7,Established,B,VIP,Defend
+10175,Quarry Energy Ltd.,1,Established,D,C,Maintain
+10176,Everest Mechanical Inc.,1,Established,F,E,Observe
+10177,Tidewater Energy Ltd.,3,Established,B,B,Defend
+10178,Ashford Automation Holdings,8,NC 3rd Year,C,C,Maintain
+10179,Yarrow Metalworks Group,7,Established,C,B,Build
+10180,Vantage Energy Holdings,5,Established,B,C,Maintain
+10181,Fairmont Robotics Corp.,7,Established,E,D,Maintain
+10182,Quarry Energy Co.,7,NC 1st Year,E,F,Observe
+10183,Granite Data Services Co.,4,Established,E,E,Observe
+10184,Ashford Logistics Ltd.,2,Established,B,B,Defend
+10185,Linden Electric Group,6,Established,F,F,Observe
+10186,Brightwell Industrial Inc.,5,NC 2nd Year,E,E,Observe
+10187,Harlow Power Co.,2,Established,A,B,Defend
+10188,Westbrook Automation Corp.,1,Established,D,C,Maintain
+10189,Crestline Metalworks Corp.,5,Established,B,A,Defend
+10190,Pinnacle Systems Corp.,2,NC 1st Year,F,F,Observe
+10191,Stonebridge Robotics Group,7,Established,D,B,Build
+10192,Everest Power Holdings,2,Established,A,B,Defend
+10193,Ironwood Metalworks Co.,1,NC 1st Year,E,D,Maintain
+10194,Ashford Engineering Ltd.,6,Established,F,F,Observe
+10195,Yarrow Energy Co.,1,Established,F,F,Observe
+10196,Ironwood Controls Holdings,1,Established,C,C,Maintain
+10197,Northgate Logistics LLC,4,Established,B,A,Defend
+10198,Elmhurst Packaging Group,7,Established,E,D,Maintain
+10199,Westbrook Robotics Corp.,1,Established,E,F,Observe
+10200,Zephyr Technologies Co.,2,Established,D,E,Observe
+10201,Driftwood Controls Inc.,6,NC 3rd Year,E,E,Observe
+10202,Ridgeway Technologies Group,8,Established,F,D,Maintain
+10203,Bayview Mechanical LLC,3,Established,D,C,Maintain
+10204,Quarry Data Services Corp.,1,Established,E,D,Maintain
+10205,Dunmore Robotics Inc.,1,Established,B,B,Defend
+10206,Brightwell Packaging Corp.,2,Established,C,D,Maintain
+10207,Ironwood Metalworks Holdings,1,NC 2nd Year,E,C,Maintain
+10208,Meridian Industrial Co.,5,NC 2nd Year,F,F,Observe
+10209,Stonebridge Energy Inc.,1,Established,D,E,Observe
+10210,Crestline Technologies Holdings,3,Established,E,F,Observe
+10211,Westbrook Data Services Holdings,5,Established,E,E,Observe
+10212,Pinnacle Mechanical Holdings,4,Established,D,D,Maintain
+10213,Brightwell Power Inc.,1,Established,F,F,Observe
+10214,Alder Automation Co.,6,Established,F,F,Observe
+10215,Yarrow Electric LLC,5,Established,D,E,Observe
+10216,Keystone Energy Inc.,5,Established,C,E,Observe
+10217,Dunmore Robotics Ltd.,1,Established,E,F,Observe
+10218,Union Energy Co.,1,Established,C,B,Build
+10219,Crestline Machinery Group,7,Established,F,F,Observe
+10220,Oakridge Power Inc.,3,Established,C,D,Maintain
+10221,Granite Robotics Corp.,2,Established,D,D,Maintain
+10222,Westbrook Industrial Inc.,3,Established,E,C,Maintain
+10223,Union Controls Group,5,Established,F,E,Observe
+10224,Northgate Electric LLC,8,Established,C,B,Build
+10225,Quarry Packaging Co.,2,Established,B,B,Defend
+10226,Linden Automation Inc.,7,Established,N/A,E,Observe
+10227,Tidewater Technologies LLC,1,Established,C,A,Build
+10228,Vantage Controls LLC,4,NC 2nd Year,D,C,Maintain
+10229,Pinnacle Machinery Group,4,Established,D,D,Maintain
+10230,Fairmont Power Ltd.,1,Established,B,B,Defend
+10231,Cobalt Machinery Group,1,Established,F,F,Observe
+10232,Meridian Engineering Co.,3,NC 2nd Year,E,E,Observe
+10233,Ironwood Packaging Corp.,8,Established,F,F,Observe
+10234,Meridian Machinery Ltd.,4,NC 2nd Year,N/A,C,Maintain
+10235,Driftwood Packaging Co.,7,Established,B,B,Defend
+10236,Meridian Machinery Holdings,6,Established,E,E,Observe
+10237,Ashford Data Services Corp.,3,Established,E,E,Observe
+10238,Dunmore Technologies Corp.,6,Established,F,F,Observe
+10239,Cobalt Energy Inc.,1,Established,F,E,Observe
+10240,Yarrow Mechanical Holdings,1,Established,D,E,Observe
+10241,Westbrook Robotics Group,6,Established,E,F,Observe
+10242,Tidewater Controls Group,6,NC 3rd Year,D,E,Observe
+10243,Everest Metalworks Holdings,2,Established,D,E,Observe
+10244,Northgate Robotics Corp.,4,Established,D,D,Maintain
+10245,Everest Logistics LLC,4,Established,D,E,Observe
+10246,Tidewater Industrial Group,7,Established,A,B,Defend
+10247,Tidewater Technologies Group,4,Established,F,F,Observe
+10248,Ashford Logistics Corp.,3,NC 3rd Year,E,E,Observe
+10249,Brightwell Logistics Group,2,Established,A,A,Defend
+10250,Union Technologies LLC,3,Established,A,VIP,Defend
+10251,Westbrook Industrial Ltd.,4,Established,E,D,Maintain
+10252,Pinnacle Engineering Inc.,7,Established,C,C,Maintain
+10253,Vantage Controls Corp.,3,Established,B,B,Defend
+10254,Meridian Technologies Inc.,2,Established,C,B,Build
+10255,Juniper Controls Inc.,2,Established,C,D,Maintain
+10256,Vantage Electric Co.,5,NC 1st Year,F,F,Observe
+10257,Alder Machinery Ltd.,6,NC 1st Year,N/A,E,Observe
+10258,Crestline Electric Corp.,1,NC 3rd Year,E,E,Observe
+10259,Cobalt Robotics Co.,1,Established,D,C,Maintain
+10260,Ashford Technologies Inc.,4,Established,D,D,Maintain
+10261,Yarrow Technologies Ltd.,1,NC 3rd Year,E,E,Observe
+10262,Ironwood Packaging Inc.,6,Established,E,D,Maintain
+10263,Everest Energy Co.,2,Established,B,D,Maintain
+10264,Brightwell Automation Inc.,1,Established,VIP,VIP,Defend
+10265,Keystone Packaging Group,7,Established,N/A,B,Gain
+10266,Pinnacle Electric Ltd.,1,Established,C,E,Observe
+10267,Juniper Controls Ltd.,2,NC 1st Year,N/A,F,Observe
+10268,Cobalt Technologies LLC,1,Established,C,C,Maintain
+10269,Brightwell Electric Corp.,1,Established,D,D,Maintain
+10270,Dunmore Industrial Ltd.,1,Established,C,C,Maintain
+10271,Crestline Machinery Holdings,1,Established,A,A,Defend
+10272,Quarry Automation Corp.,1,Established,C,C,Maintain
+10273,Zephyr Industrial LLC,1,Established,B,B,Defend
+10274,Meridian Automation Inc.,4,Established,N/A,B,Gain
+10275,Crestline Logistics Ltd.,5,Established,A,B,Defend
+10276,Keystone Robotics LLC,3,Established,C,B,Build
+10277,Ashford Logistics LLC,2,NC 3rd Year,B,B,Defend
+10278,Harlow Technologies Corp.,3,Established,E,E,Observe
+10279,Union Metalworks Corp.,7,Established,E,C,Maintain
+10280,Union Logistics Holdings,6,Established,D,E,Observe
+10281,Driftwood Systems Ltd.,1,Established,D,D,Maintain
+10282,Cobalt Machinery Inc.,1,Established,C,C,Maintain
+10283,Elmhurst Engineering Holdings,2,Established,A,A,Defend
+10284,Stonebridge Power Inc.,2,Established,F,F,Observe
+10285,Meridian Machinery LLC,4,Established,B,B,Defend
+10286,Ashford Machinery Group,3,Established,D,D,Maintain
+10287,Quarry Data Services LLC,1,Established,D,E,Observe
+10288,Bayview Metalworks Holdings,2,Established,F,F,Observe
+10289,Pinnacle Technologies Ltd.,4,Established,C,C,Maintain
+10290,Oakridge Controls Corp.,1,Established,N/A,F,Observe
+10291,Pinnacle Systems Holdings,6,Established,B,D,Maintain
+10292,Yarrow Energy Ltd.,1,Established,F,F,Observe
+10293,Meridian Power Holdings,7,Established,C,B,Build
+10294,Westbrook Technologies LLC,1,NC 2nd Year,E,E,Observe
+10295,Pinnacle Mechanical Ltd.,6,Established,A,A,Defend
+10296,Dunmore Mechanical Inc.,7,Established,C,C,Maintain
+10297,Tidewater Electric Corp.,8,NC 1st Year,N/A,B,Gain
+10298,Union Machinery Holdings,6,Established,D,C,Maintain
+10299,Vantage Systems Holdings,6,Established,B,B,Defend
+10300,Westbrook Power Ltd.,4,NC 3rd Year,D,D,Maintain
+10301,Ashford Machinery Inc.,6,Prospect,N/A,F,Observe
+10302,Oakridge Data Services Inc.,1,Prospect,N/A,C,Maintain
+10303,Ridgeway Industrial Ltd.,4,Prospect,N/A,B,Gain
+10304,Harlow Automation Co.,4,Prospect,N/A,E,Observe
+10305,Cobalt Data Services Co.,6,Prospect,N/A,C,Maintain
+10306,Fairmont Machinery Inc.,3,Prospect,N/A,C,Maintain
+10307,Elmhurst Data Services Ltd.,3,Prospect,N/A,C,Maintain
+10308,Westbrook Electric Co.,4,Prospect,N/A,E,Observe
+10309,Ridgeway Engineering Co.,2,Prospect,N/A,E,Observe
+10310,Brightwell Metalworks Ltd.,1,Prospect,N/A,E,Observe
+10311,Crestline Electric Ltd.,3,Prospect,N/A,E,Observe
+10312,Fairmont Systems LLC,3,Prospect,N/A,F,Observe
+10313,Stonebridge Data Services Co.,2,Prospect,N/A,E,Observe
+10314,Zephyr Machinery LLC,2,Prospect,N/A,D,Maintain
+10315,Crestline Controls LLC,2,Prospect,N/A,D,Maintain
+10316,Stonebridge Engineering Inc.,2,Prospect,N/A,E,Observe
+10317,Alder Machinery Co.,2,Prospect,N/A,E,Observe
+10318,Vantage Metalworks LLC,5,Prospect,N/A,F,Observe
+10319,Quarry Electric Ltd.,2,Prospect,N/A,E,Observe
+10320,Harlow Data Services Co.,8,Prospect,N/A,E,Observe
+10321,Everest Systems LLC,7,Prospect,N/A,B,Gain
+10322,Quarry Power Ltd.,3,Prospect,N/A,E,Observe
+10323,Ashford Data Services LLC,2,Prospect,N/A,C,Maintain
+10324,Ridgeway Electric Group,4,Prospect,N/A,E,Observe
+10325,Vantage Technologies Group,6,Prospect,N/A,D,Maintain

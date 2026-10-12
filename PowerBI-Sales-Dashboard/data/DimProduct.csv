@@ -1,0 +1,72 @@
+ProductID,MaterialName,ProductGroup,BusinessUnit,MaterialCategory,UnitPrice
+MAT-1001,Modular Enclosure 600x2000x500,A.03 Modular Enclosure Systems,A Industrial Housings,Standard,548.0
+MAT-1002,Modular Enclosure 800x2000x500,A.03 Modular Enclosure Systems,A Industrial Housings,Standard,730.0
+MAT-1003,Modular Enclosure 800x2000x600,A.03 Modular Enclosure Systems,A Industrial Housings,Standard,800.0
+MAT-1004,Modular Enclosure 800x2200x600,A.03 Modular Enclosure Systems,A Industrial Housings,Standard,880.0
+MAT-1005,Modular Enclosure 1000x2000x600,A.03 Modular Enclosure Systems,A Industrial Housings,Standard,1000.0
+MAT-1006,Modular Enclosure 1000x2200x600,A.03 Modular Enclosure Systems,A Industrial Housings,Standard,1100.0
+MAT-1007,Modular Enclosure 1200x2000x600,A.03 Modular Enclosure Systems,A Industrial Housings,Standard,1200.0
+MAT-1008,Modular Enclosure 1200x2200x600,A.03 Modular Enclosure Systems,A Industrial Housings,Standard,1320.0
+MAT-1009,Modular Enclosure 800x1800x500,A.03 Modular Enclosure Systems,A Industrial Housings,Standard,657.0
+MAT-1010,Modular Enclosure 600x1800x400,A.03 Modular Enclosure Systems,A Industrial Housings,Standard,441.0
+MAT-1011,Modular Enclosure 1200x2200x600 Custom,A.03 Modular Enclosure Systems,A Industrial Housings,Special,2112.0
+MAT-1012,Modular Enclosure 800x1800x500 Custom,A.03 Modular Enclosure Systems,A Industrial Housings,Special,1052.0
+MAT-1013,Modular Enclosure 600x1800x400 Custom,A.03 Modular Enclosure Systems,A Industrial Housings,Special,705.0
+MAT-1014,Compact Cabinet 600x600x210,A.02 Compact Cabinets,A Industrial Housings,Standard,126.0
+MAT-1015,Compact Cabinet 600x760x210,A.02 Compact Cabinets,A Industrial Housings,Standard,160.0
+MAT-1016,Compact Cabinet 760x760x300,A.02 Compact Cabinets,A Industrial Housings,Standard,202.0
+MAT-1017,Compact Cabinet 760x1000x300,A.02 Compact Cabinets,A Industrial Housings,Standard,266.0
+MAT-1018,Compact Cabinet 1000x760x300,A.02 Compact Cabinets,A Industrial Housings,Standard,266.0
+MAT-1019,Compact Cabinet 1200x760x300,A.02 Compact Cabinets,A Industrial Housings,Standard,319.0
+MAT-1020,Small Enclosure 150x200x120,A.01 Small Enclosures,A Industrial Housings,Standard,35.0
+MAT-1021,Small Enclosure 200x300x150,A.01 Small Enclosures,A Industrial Housings,Standard,54.0
+MAT-1022,Small Enclosure 300x300x150,A.01 Small Enclosures,A Industrial Housings,Standard,81.0
+MAT-1023,Small Enclosure 300x400x200,A.01 Small Enclosures,A Industrial Housings,Standard,108.0
+MAT-1024,Small Enclosure 400x400x200,A.01 Small Enclosures,A Industrial Housings,Standard,144.0
+MAT-1025,Base Plinth 100 mm,A.10 Base and Floor Components,A Industrial Housings,Standard,95.0
+MAT-1026,Base Plinth 200 mm,A.10 Base and Floor Components,A Industrial Housings,Standard,140.0
+MAT-1027,Floor Mounting Kit,A.10 Base and Floor Components,A Industrial Housings,Standard,120.0
+MAT-1028,Door Lock Insert,A.11 Doors and Locks,A Industrial Housings,Standard,32.0
+MAT-1029,Hinged Door Kit,A.11 Doors and Locks,A Industrial Housings,Standard,185.0
+MAT-1030,Door Handle Set,A.11 Doors and Locks,A Industrial Housings,Standard,58.0
+MAT-1031,LED System Light,A.12 Lights and Mounting Parts,A Industrial Housings,Standard,58.0
+MAT-1032,Mounting Plate,A.12 Lights and Mounting Parts,A Industrial Housings,Standard,65.0
+MAT-1033,Gland Plate,A.12 Lights and Mounting Parts,A Industrial Housings,Standard,48.0
+MAT-1034,Cable Duct Set,A.12 Lights and Mounting Parts,A Industrial Housings,Standard,44.0
+MAT-1035,Busbar 800A 3P,B.21 Busbar Systems,B Power Distribution,Standard,320.0
+MAT-1036,Busbar 1600A 3P,B.21 Busbar Systems,B Power Distribution,Standard,610.0
+MAT-1037,Busbar Support Set,B.21 Busbar Systems,B Power Distribution,Standard,85.0
+MAT-1038,Busbar Cover,B.21 Busbar Systems,B Power Distribution,Standard,52.0
+MAT-1039,Distribution Module 63A,B.22 Power Distribution Modules,B Power Distribution,Standard,210.0
+MAT-1040,Distribution Module 160A,B.22 Power Distribution Modules,B Power Distribution,Standard,340.0
+MAT-1041,Feeder Cabinet 400A,B.22 Power Distribution Modules,B Power Distribution,Standard,1450.0
+MAT-1042,Cooling Unit 300W,C.31 Wall-Mount Cooling Units,C Climate Control,Standard,780.0
+MAT-1043,Cooling Unit 500W,C.31 Wall-Mount Cooling Units,C Climate Control,Standard,960.0
+MAT-1044,Cooling Unit 1000W,C.31 Wall-Mount Cooling Units,C Climate Control,Standard,1480.0
+MAT-1045,Cooling Unit 2000W,C.31 Wall-Mount Cooling Units,C Climate Control,Standard,2350.0
+MAT-1046,Cooling Unit 4000W,C.31 Wall-Mount Cooling Units,C Climate Control,Standard,3900.0
+MAT-1047,Fan-and-Filter Unit 150 m3/h,C.32 Fan and Filter Units,C Climate Control,Standard,165.0
+MAT-1048,Fan-and-Filter Unit 300 m3/h,C.32 Fan and Filter Units,C Climate Control,Standard,235.0
+MAT-1049,Outlet Filter 300 m3/h,C.32 Fan and Filter Units,C Climate Control,Standard,70.0
+MAT-1050,Liquid Chiller 2 kW,C.35 Chillers,C Climate Control,Standard,5200.0
+MAT-1051,Liquid Chiller 5 kW,C.35 Chillers,C Climate Control,Standard,8900.0
+MAT-1052,IT Rack 24U 600x800,D.04 IT Racks,D IT Infrastructure,Standard,620.0
+MAT-1053,IT Rack 42U 600x1000,D.04 IT Racks,D IT Infrastructure,Standard,980.0
+MAT-1054,IT Rack 42U 800x1200,D.04 IT Racks,D IT Infrastructure,Standard,1250.0
+MAT-1055,IT Rack 47U 800x1200,D.04 IT Racks,D IT Infrastructure,Standard,1480.0
+MAT-1056,Network Cabinet 42U,D.04 IT Racks,D IT Infrastructure,Standard,1150.0
+MAT-1057,Metered PDU 16A,D.43 Intelligent PDUs,D IT Infrastructure,Standard,145.0
+MAT-1058,Switched PDU 32A,D.43 Intelligent PDUs,D IT Infrastructure,Standard,390.0
+MAT-1059,Monitored PDU 3P 32A,D.43 Intelligent PDUs,D IT Infrastructure,Standard,520.0
+MAT-1060,Installation Service Day,E.51 Installation Services,E Services,Standard,1800.0
+MAT-1061,Commissioning Package,E.51 Installation Services,E Services,Standard,3200.0
+MAT-1062,Annual Maintenance Contract,E.52 Maintenance Contracts,E Services,Standard,4800.0
+MAT-1063,Extended Warranty,E.52 Maintenance Contracts,E Services,Standard,2600.0
+MAT-1064,Drilling Machine Frame,F.61 Machining Systems,F Automation Systems,Standard,14500.0
+MAT-1065,Machining Tooling Kit,F.61 Machining Systems,F Automation Systems,Standard,6800.0
+MAT-1066,Liquid Chiller Custom 8 kW,C.35 Chillers,C Climate Control,Special,14500.0
+MAT-1067,Cooling Unit OEM Custom,C.31 Wall-Mount Cooling Units,C Climate Control,Special,4100.0
+MAT-1068,IT Rack 42U Custom Colour,D.04 IT Racks,D IT Infrastructure,Special,1780.0
+MAT-1069,Container Rack System 6-Rack,D.41 Data Center Containers,D IT Infrastructure,Special,89000.0
+MAT-1070,Container Rack System 12-Rack,D.41 Data Center Containers,D IT Infrastructure,Special,158000.0
+MAT-1071,Cutting Machine Frame Custom,F.61 Machining Systems,F Automation Systems,Special,21000.0

@@ -1,59 +1,4 @@
-[Español](#versión-en-español) | [English](#english-version)
-<a name="versión-en-español"></a>
-# Consultoría de Inteligencia de Negocios y Estrategia de Datos
-
-¡Hola! Soy **Andrea Contreras**, Consultora Independiente en Guatemala 🇬🇹. Me especializo en transformar datos desordenados en activos estratégicos, optimizando la operación de Pymes y empresas. Mi enfoque es la **interoperabilidad**: conecto y optimizo tus datos sin importar si tu empresa vive en el ecosistema de **Microsoft 365** o **Google Workspace**.
-
-## 🌎 Alcance Global y Servicios
-* **Servicios Trilingües:** Consultoría y soluciones técnicas en **Español (Nativo)**, **Inglés (C1)** y **Alemán (C1)**.
-* **Estándares Europeos:** Experiencia académica y profesional en **Austria 🇦🇹**, garantizando precisión, flujos de trabajo de alta calidad y puntualidad.
-* **Colaboración Remota:** Disponible para proyectos estratégicos en **Latinoamérica** y **Europa**.
-
-## 🛠️ Capacidades Técnicas (Soluciones por Función)
-Domino las herramientas líderes para adaptarme a la infraestructura que tu empresa ya posee:
-
-| **Análisis y Visualización** | **Automatización de Procesos** | **Bases de Datos y Apps** |
-| :--- | :--- | :--- |
-| 📊 **Power BI** (DAX) | ⚙️ **Power Automate** | 📱 **Power Apps** |
-| 📗 **Looker Studio** | ⚡ **Power Query (M)** | 🚀 **AppSheet / App Studio** |
-| 📈 **Google Sheets / Excel** (Avanzado) | 💻 **Google Apps Script** | 🗄️ **SQL** |
-
-## 🚀 Soluciones que implemento
-* **Dashboards Unificados:** Consolidación de múltiples fuentes (SQL, Excel, Sheets) en tableros de control en tiempo real.
-* **Claridad Financiera:** Monitoreo de rentabilidad, flujo de caja y KPIs críticos para la toma de decisiones.
-* **Modernización de Captura:** Sustitución de formularios de papel por Apps personalizadas para ingreso de datos desde celular o tablet.
-* **Flujos de Trabajo Automatizados:** Conexión entre sistemas para generar alertas o eliminar tareas manuales repetitivas.
-* **Limpieza de Datos (ETL):** Procesos de transformación para eliminar errores humanos, duplicados y garantizar datos veraces.
-
-## 📊 Proyectos
-
-### [Sales Performance Dashboard – Power BI](./powerbi-sales-performance-dashboard/)
-
-Dashboard de ventas para un fabricante B2B con equipos comerciales en cinco países. Reúne ventas vs. plan y año anterior, pedidos, visitas, cotizaciones y embudo de ventas, con drill-through de cliente a producto. Entregado al cliente en Power BI Service con actualización automática programada, sin tareas manuales.
-
-Basado en un proyecto real. Los datos mostrados son ficticios y generados con IA para proteger la confidencialidad del cliente.
-
-[![Sales Performance Dashboard](./powerbi-sales-performance-dashboard/screenshots/01-overview.png)](./powerbi-sales-performance-dashboard/)
-
-## 🏗️ Metodología de Trabajo
-1. **Diagnóstico:** Entender el problema de negocio y los objetivos, no solo la tabla de datos.
-2. **Modelado y Solución:** Estructurar la información para que sea rápida, escalable y veraz.
-3. **Entrega:** Visualizaciones que cuentan una historia y herramientas que ahorran tiempo real.
-
-## 📚 Estándares y Metodología Técnica
-Como profesional organizada y comprometida con la calidad, sigo metodologías que garantizan soluciones robustas y mantengo una base de conocimientos técnica donde documento los estándares de ingeniería aplicados en mis proyectos:
-
-* [📂 **Mejores Prácticas (Best Practices)**](./Best-Practices/) — Estándares internos de desarrollo.
-* [📖 **Centro de Conocimiento**](https://github.com/andrecontre/learning) — Mi repositorio central de lógica avanzada y notas maestras.
-
-## 📫 Contáctame
-Si tu empresa tiene datos pero no tiene respuestas, hablemos de cómo convertirlos en crecimiento.
-* **LinkedIn:** [andreacontrerasflores](https://www.linkedin.com/in/andreacontrerasflores/)
-* **Ubicación:** Guatemala 🇬🇹 (servicios presenciales y remotos) y proyectos remotos en LATAM y Europa.
-
-*"El valor no está en el dato, sino en lo que el dato te permite decidir."*
-
----
+[English](#english-version) | [Español](#versión-en-español) 
 
 <a name="english-version"></a>
 ## 🇺🇸 English Version
@@ -109,3 +54,59 @@ If your company has data but no answers, let's discuss how to turn it into growt
 * **Location:** Guatemala 🇬🇹 (on-site and remote services) and remote projects for LATAM & Europe.
 
 *"The value is not in the data, but in what the data allows you to decide."*
+
+---
+
+<a name="versión-en-español"></a>
+# Consultoría de Inteligencia de Negocios y Estrategia de Datos
+
+¡Hola! Soy **Andrea Contreras**, Consultora Independiente en Guatemala 🇬🇹. Me especializo en transformar datos desordenados en activos estratégicos, optimizando la operación de Pymes y empresas. Mi enfoque es la **interoperabilidad**: conecto y optimizo tus datos sin importar si tu empresa vive en el ecosistema de **Microsoft 365** o **Google Workspace**.
+
+## 🌎 Alcance Global y Servicios
+* **Servicios Trilingües:** Consultoría y soluciones técnicas en **Español (Nativo)**, **Inglés (C1)** y **Alemán (C1)**.
+* **Estándares Europeos:** Experiencia académica y profesional en **Austria 🇦🇹**, garantizando precisión, flujos de trabajo de alta calidad y puntualidad.
+* **Colaboración Remota:** Disponible para proyectos estratégicos en **Latinoamérica** y **Europa**.
+
+## 🛠️ Capacidades Técnicas (Soluciones por Función)
+Domino las herramientas líderes para adaptarme a la infraestructura que tu empresa ya posee:
+
+| **Análisis y Visualización** | **Automatización de Procesos** | **Bases de Datos y Apps** |
+| :--- | :--- | :--- |
+| 📊 **Power BI** (DAX) | ⚙️ **Power Automate** | 📱 **Power Apps** |
+| 📗 **Looker Studio** | ⚡ **Power Query (M)** | 🚀 **AppSheet / App Studio** |
+| 📈 **Google Sheets / Excel** (Avanzado) | 💻 **Google Apps Script** | 🗄️ **SQL** |
+
+## 🚀 Soluciones que implemento
+* **Dashboards Unificados:** Consolidación de múltiples fuentes (SQL, Excel, Sheets) en tableros de control en tiempo real.
+* **Claridad Financiera:** Monitoreo de rentabilidad, flujo de caja y KPIs críticos para la toma de decisiones.
+* **Modernización de Captura:** Sustitución de formularios de papel por Apps personalizadas para ingreso de datos desde celular o tablet.
+* **Flujos de Trabajo Automatizados:** Conexión entre sistemas para generar alertas o eliminar tareas manuales repetitivas.
+* **Limpieza de Datos (ETL):** Procesos de transformación para eliminar errores humanos, duplicados y garantizar datos veraces.
+
+## 📊 Proyectos
+
+### [Sales Performance Dashboard – Power BI](./powerbi-sales-performance-dashboard/)
+
+Dashboard de ventas para un fabricante B2B con equipos comerciales en cinco países. Reúne ventas vs. plan y año anterior, pedidos, visitas, cotizaciones y embudo de ventas, con drill-through de cliente a producto. Entregado al cliente en Power BI Service con actualización automática programada, sin tareas manuales.
+
+Basado en un proyecto real. Los datos mostrados son ficticios y generados con IA para proteger la confidencialidad del cliente.
+
+[![Sales Performance Dashboard](./powerbi-sales-performance-dashboard/screenshots/01-overview.png)](./powerbi-sales-performance-dashboard/)
+
+## 🏗️ Metodología de Trabajo
+1. **Diagnóstico:** Entender el problema de negocio y los objetivos, no solo la tabla de datos.
+2. **Modelado y Solución:** Estructurar la información para que sea rápida, escalable y veraz.
+3. **Entrega:** Visualizaciones que cuentan una historia y herramientas que ahorran tiempo real.
+
+## 📚 Estándares y Metodología Técnica
+Como profesional organizada y comprometida con la calidad, sigo metodologías que garantizan soluciones robustas y mantengo una base de conocimientos técnica donde documento los estándares de ingeniería aplicados en mis proyectos:
+
+* [📂 **Mejores Prácticas (Best Practices)**](./Best-Practices/) — Estándares internos de desarrollo.
+* [📖 **Centro de Conocimiento**](https://github.com/andrecontre/learning) — Mi repositorio central de lógica avanzada y notas maestras.
+
+## 📫 Contáctame
+Si tu empresa tiene datos pero no tiene respuestas, hablemos de cómo convertirlos en crecimiento.
+* **LinkedIn:** [andreacontrerasflores](https://www.linkedin.com/in/andreacontrerasflores/)
+* **Ubicación:** Guatemala 🇬🇹 (servicios presenciales y remotos) y proyectos remotos en LATAM y Europa.
+
+*"El valor no está en el dato, sino en lo que el dato te permite decidir."*

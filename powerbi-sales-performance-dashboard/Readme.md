@@ -1,8 +1,8 @@
-# Sales Cockpit – Power BI Sales & Pipeline Dashboard
+# Sales Performance Dashboard – Power BI
 
-Power BI dashboard for a B2B manufacturer with sales teams in five countries. It brings sales vs. plan and prior year, incoming orders, visits, quotations and the lead-to-opportunity pipeline into one report, so sales managers can see where they stand and which customers and products need attention.
+Power BI solution for a B2B manufacturer with sales teams in five countries. It brings sales vs. plan and prior year, incoming orders, visits, quotations and the lead-to-opportunity pipeline into one report, so sales managers can see where they stand and which customers and products need attention.
 
-![Overview](01-overview.png)
+![Overview](screenshots/01-overview.png)
 
 ## What's inside
 
@@ -15,6 +15,10 @@ Power BI dashboard for a B2B manufacturer with sales teams in five countries. It
 ## Built with
 
 Power BI, DAX (YTD, prior-year and plan comparisons), Power Query, star-schema data model, bookmarks and drill-through navigation.
+
+## Delivery
+
+I deployed the report to the client's Power BI Service with scheduled automatic refresh, so the data updates on its own and the client no longer needs to do anything manually.
 
 ## About the data
 

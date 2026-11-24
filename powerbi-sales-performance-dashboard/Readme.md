@@ -2,7 +2,7 @@
 
 Power BI dashboard for a B2B manufacturer with sales teams in five countries. It brings sales vs. plan and prior year, incoming orders, visits, quotations and the lead-to-opportunity pipeline into one report, so sales managers can see where they stand and which customers and products need attention.
 
-![Overview](screenshots/01-overview.png)
+![Overview](01-overview.png)
 
 ## What's inside
 
@@ -24,7 +24,7 @@ All names are fictional; any resemblance to real companies or people is coincide
 
 ## Files
 
-- [Full report (PDF)](report/sales-cockpit-walkthrough.pdf)
+- [Full report (PDF)](sales-performance-dashboard.pdf)
 - [Screenshots](screenshots/)
 
 ## Contact
